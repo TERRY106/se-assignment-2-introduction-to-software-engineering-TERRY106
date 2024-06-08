@@ -31,6 +31,7 @@ Maintenance: Changing the current features or making new ones depending on the p
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
 
+
 The Waterfall model is the typical form of the SDLC approach because each phase is implemented only when the preceding phase is complete. It is ideal for usage within projects with static requirements and limited change requirements. The Agile model, being an iterative one, involves collaboration between cross-functional, self-managing teams as well as the continuous transformation of requirements and solutions. Said to be more flexible and easier to meet specific client needs, but involves the client directly and actively.
 
 
